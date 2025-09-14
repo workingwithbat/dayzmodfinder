@@ -1,3 +1,3 @@
-# dayzmodfinder
+# DayZ Mod Finder
 
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+![hippo](https://i.imgur.com/zAaF3Bd.gif)
