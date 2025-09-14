@@ -1,3 +1,3 @@
 # DayZ Mod Finder
 
-![hippo](https://i.imgur.com/zAaF3Bd.gif)
+![example](https://imgur.com/gallery/github-dayzmodfinder-lpgWdGr)
