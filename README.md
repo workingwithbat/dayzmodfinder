@@ -42,3 +42,13 @@ REM Create/overwrite modlist.txt
 
 echo modlist.txt has been generated.
 pause
+```
+
+## How to use  
+
+1. Create a new `.bat` file inside your DayZ server folder.  
+2. Copy and paste the script above into that `.bat` file.  
+3. Save the file.  
+4. Run the `.bat` by double-clicking it.  
+
+After running, you’ll find a `modlist.txt` file in the same folder with all your mods listed.
